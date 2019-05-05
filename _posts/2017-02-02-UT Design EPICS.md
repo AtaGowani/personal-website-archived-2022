@@ -20,7 +20,10 @@ Once the students have been provided with the organizations and their respective
 
 The voting process described above took place last week and I was assigned to my first choice organization, IntelliChoice, Inc.
 
-<!-- Insert Image Here -->
+<!-- Excited Sheldon -->
+<p style="text-align:center">
+<img src="/assets/imgs/excited.gif" width="280rem">
+</p>
 
 ### IntelliChoice?
 
