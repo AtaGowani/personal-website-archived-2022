@@ -8,7 +8,10 @@ title: "UT Design EPICS"
 
 This semester I have decided to take part in EPICS and work towards solving a real-life engineering problem using THE Design Process.
 
-<!-- Insert Image here -->
+<!-- The Design Process -->
+<p style="text-align:center">
+<img src="/assets/imgs/design_process.png" width="280rem">
+</p>
 
 ## But what EXACTLY is EPICS?
 
@@ -34,3 +37,8 @@ IntelliChoice, Inc. is a non-profit organization that is based in Dallas, Texas.
 IntelliChoice, Inc. has limited web support and needs the development of a database for efficient management. Additionally, they want to develop an on-line class to provide free math tutoring to students in remote areas where educational resources are very limited.
 
 And now it’s up to our team to solve this specific engineering problem over the duration of this semester.
+
+<!-- The End Image -->
+<p style="text-align:center">
+<img src="/assets/imgs/live_long_prosper.jpg" width="280rem">
+</p>
