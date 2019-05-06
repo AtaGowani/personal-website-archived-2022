@@ -15,6 +15,11 @@ I was not prepared for this at all. All I had was another noob programmer, Jenya
 
 ## Sunshine and Rainbows
 
+<!-- The Team -->
+<p style="text-align:center">
+<img src="/assets/imgs/hack_tamu.jpg" width="300rem">
+</p>
+
 And now time for the positive and optimistic ending that you all saw coming. Once we were at Texas A & M University and after the registration was done, Jenya and I were able to assemble a team. Although we ended up with a noob team and it took a lot of help just for us to make a final product that merely reflected our idea on a static webpage, in the end it was all worth the learning experience and the free goodies.
 
 **P.S. Our team made it to the semi-finals for cup-staking.**
