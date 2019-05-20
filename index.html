@@ -45,25 +45,54 @@ layout: home
         diff_days += 31;
     }
 
-    // if (diff_hours < 0) {
-    //   if (diff_days == 0) {
-    //     if (today.getMonth() == 1)
-    //       diff_days = 28;
-    //     else if (today.getMonth() % 2 == 0)
-    //       diff_days = 30;
-    //     else
-    //       diff_days = 31;
-    //   } else {
-    //     diff_days--;
-    //   }
-    //   diff_hours += 24;
-    // }
+    if (diff_hours < 0) {
+      if (diff_days == 0) {
+        if (today.getMonth() == 1)
+          diff_days = 28;
+        else if (today.getMonth() % 2 == 0)
+          diff_days = 30;
+        else
+          diff_days = 31;
+        
+        if (diff_months == 0) {
+          diff_months = 11;
+          diff_years--;
+        } else {
+          diff_months--;
+        }
+      } else {
+        diff_days--;
+      }
+      diff_hours += 24;
+    }
 
-    // if (diff_minutes < 0) {
-    //   diff_hours--;
-    //   diff_minutes += 60;
-    // }
-    // console.log(diff_hours);
+    if (diff_minutes < 0) {
+      if (diff_hours == 0) {
+        diff_hours = 23;
+
+        if (diff_days == 0) {
+          if (today.getMonth() == 1)
+            diff_days = 28;
+          else if (today.getMonth() % 2 == 0)
+            diff_days = 30;
+          else
+            diff_days = 31;
+        } else {
+          diff_days--;
+        }
+
+        if (diff_months == 0) {
+          diff_months = 11;
+          diff_years--;
+        } else {
+          diff_months--;
+        }
+      } else {
+        diff_hours--;
+      }
+      
+      diff_minutes += 60;
+    }
 
     // if (diff_seconds < 0) {
     //   diff_minutes--;
@@ -73,12 +102,12 @@ layout: home
     diff_years > 1 ? time_str += diff_years + " years" : time_str += diff_years + " year";
     time_str += " ";
     diff_months > 1 ? time_str += diff_months + " months" : time_str += diff_months + " month";
-    time_str += " and ";
+    time_str += " ";
     diff_days > 1 ? time_str += diff_days + " days" : time_str += diff_days + " day";
     time_str += " ";
-    // diff_hours > 1 ? time_str += diff_hours + " hours" : time_str += diff_hours + " hour";
-    // time_str += " ";
-    // diff_minutes > 1 ? time_str += diff_minutes + " minutes" : time_str += diff_minutes + " minute";
+    diff_hours > 1 ? time_str += diff_hours + " hours" : time_str += diff_hours + " hour";
+    time_str += " and ";
+    diff_minutes > 1 ? time_str += diff_minutes + " minutes" : time_str += diff_minutes + " minute";
     // time_str += " and ";
     // diff_seconds > 1 ? time_str += diff_seconds + " seconds" : time_str += diff_seconds + " second";
 
@@ -86,5 +115,5 @@ layout: home
   }
   
   time_calc_function();
-  setInterval(time_calc_function, 1000);
+  setInterval(time_calc_function, 5000);
 </script>
