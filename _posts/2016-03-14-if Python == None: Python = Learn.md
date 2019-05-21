@@ -11,4 +11,4 @@ Let me just start with a brief background on Python. Python is a programming lan
 
 I am taking a beginner’s course in Python on Coursera. This course is taught by Dr. Chuck of the University of Michigan. I am in the last week of the beginner’s course and after that will be moving on to take further courses by Dr. Chuck as a continuation of this one.
 
-As someone who is interested in Computer Engineering, I believe that it is important for me to introduce myself to programming languages. I have chosen to start with Python and will continue to explore other languages.
+As someone who is interested in computer engineering, I believe that it is important for me to introduce myself to programming languages. I have chosen to start with Python and will continue to explore other languages.
