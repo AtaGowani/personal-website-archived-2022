@@ -1,0 +1,10 @@
+---
+title: "Why do I need challenging?"
+---
+
+# Chllenging make ur life so interest!
+Talking about life seem to be a generalistic topic, life is what everyday face like I do, but life simply doesn’t help you out while you living every day do the same thing looping never end, imagine how long have you been looping your self, work, eat, sleep. Ask your self? How do you feel about that? Is that the life you wanted? My answer is not, life seems to be more meaningful, wonderful and is not the consensus of sadness, regrets, or dead. So how do I overcome the looping live life? To be honest I do found my self one thing that helps me out and I want to share it with people around me either. The answer is pretty much simple: LIVE YOUR LIFE CHALLENGING. The challenge might seem to difficult for most people as I do. People not likely to love to do it, they only live life with comfortable but comfortable doesn’t mean they wrong just because they find themselves in an easy way. However, what happens when you stay in the comfortable mood every single day you will end up with things you face your self in the same mood, living with same people, eating the same food, and use the same things, nither I am I love it, I love as I had described above I love easy and fun but as all the action is rolling me up every day I feel lost, depress and awkward. Thus, I am trying to find a better solution for myself. So what do I had found? I do find a simple action is called “CHALLENGING” and I defined it as the foundation of living life meaningfully, As being human it’s sound dramatic but it true. Challenge make people difficult at first but if you complete it, you will get a really strong achievement for your self. Imagine if you have life badge, the badges seem to show off your life experience, How do you feel about them? Would you try harder to get those badges? Who will you gonna show them? How do you feel when you see those? 
+Ask your self? Are you ready to begin challenging?
+
+Let do it!
+LyhourChhen.
