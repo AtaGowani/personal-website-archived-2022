@@ -1,5 +1,7 @@
 {% if site.style == 'dark' %}
   {% assign icon_color = "#ffffff" %}
+{% else if site.style == 'blue' %}
+  {% assign icon_color = "#ecfcff" %}
 {% else %}
   {% assign icon_color = "#24292e" %}
 {% endif %}
@@ -30,4 +32,4 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
   </head>
-  <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
+  <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% else if site.style == 'blue' %}style="background-color: #ecfcff !important"{% endif %}>
