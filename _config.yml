@@ -1,5 +1,5 @@
-layout: stacked
-style: light
+layout: sidebar
+style: blue
 
 plugins:
   - jekyll-octicons
@@ -33,7 +33,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: gowani.codes
+  # instagram: gowani.codes
   # keybase: your_username
   linkedin: AtaGowani
   github: AtaGowani
@@ -46,14 +46,3 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
-topics:
-  - name: Machine Learning
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: User Experience Design
-
-  - name: Web Development
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
