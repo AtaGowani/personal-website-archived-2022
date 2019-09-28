@@ -6,6 +6,14 @@
   {% assign icon_color = "#24292e" %}
 {% endif %}
 
+{% if site.style == 'dark' %}
+  {% assign back_icon_color = "#ffffff" %}
+{% elsif site.style == 'blue' %}
+  {% assign back_icon_color = "#5edfff" %}
+{% else %}
+  {% assign back_icon_color = "#24292e" %}
+{% endif %}
+
 {% assign content = page.content %}
 
 {% assign posts_total = site.posts | size %}

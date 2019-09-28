@@ -66,3 +66,31 @@ body {
 .min-height-full {
   min-height: 100vh;
 }
+
+.bg-blue {
+  background: #3e64ff !important;
+}
+
+.bg-baby-blue {
+  background: #5edfff !important;
+}
+
+.bg-light-blue {
+  background: #ecfcff !important;
+}
+
+.text-light-blue {
+  color: #ecfcff !important;
+}
+
+.rounded-3 {
+  border-radius: 10px !important;
+}
+
+.github-component {
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+
+  &:hover {
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.2);
+  }
+}
