@@ -1,99 +1,35 @@
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Stuff About Me</h2>
 <p class="content-text mb-5 mt-3 {% if site.style == 'dark' %}text-white{% endif %}">
   I am a software engineering student with a creative interest in visual storytelling and user experience. I am interested
-  in all things programming, ranging from operating systems programming to machine learning &amp; artificial intelligence.
-  I am also an experienced web developer and started my journey into programming through web development <span id="time-passed"></span> ago.
+  in creating user-focused solutions to modern problems through software engineering. I am also an experienced web developer and started my journey into programming through web development <span id="time-passed"></span> ago.
   Download my resume <a href="/assets/docs/Ata Gowani.pdf" download>here.</a>
 </p>
 
 <script>
   var completed = new Date('Friday, April 1, 2016 23:32:00'); // Friday, April 1, 2016 23:32:00
   var content = document.getElementById('time-passed');
-  var time_calc_function = function () {
+
+  function timeDifferenceCalc (startDate) {
     var today = new Date();
     var time_str = "";
 
-    var diff_years = today.getYear() - completed.getYear();
-    var diff_months = today.getMonth() - completed.getMonth();
-    var diff_days = today.getDate() - completed.getDate();
-    var diff_hours = today.getHours() - completed.getHours();
-    var diff_minutes = today.getMinutes() - completed.getMinutes();
-    var diff_seconds = today.getSeconds() - completed.getSeconds();
+    console.log(startDate);
 
-    if (diff_months < 0) {
-      diff_years--;
-      diff_months += 12;
-    }
+    var diff = (today - startDate) / 1000;
 
-    if (diff_days < 0) {
-      if (diff_months == 0) {
-        diff_months = 11;
-        diff_years--;
-      } else {
-        diff_months--;
-      }
+    var diff_seconds = diff;
+    var diff_minutes = Math.floor(diff_seconds / 60);
+    var diff_hours = Math.floor(diff_minutes / 60);
+    var diff_days = Math.floor(diff_hours / 24);
+    var diff_months = Math.floor(diff_days / 30.4375);
+    var diff_years = Math.floor(diff_months / 12);
 
-      if (diff_months == 1)
-        diff_days += 28;
-      else if (diff_months % 2 == 0)
-        diff_days += 30;
-      else
-        diff_days += 31;
-    }
-
-    if (diff_hours < 0) {
-      if (diff_days == 0) {
-        if (today.getMonth() == 1)
-          diff_days = 28;
-        else if (today.getMonth() % 2 == 0)
-          diff_days = 30;
-        else
-          diff_days = 31;
-        
-        if (diff_months == 0) {
-          diff_months = 11;
-          diff_years--;
-        } else {
-          diff_months--;
-        }
-      } else {
-        diff_days--;
-      }
-      diff_hours += 24;
-    }
-
-    if (diff_minutes < 0) {
-      if (diff_hours == 0) {
-        diff_hours = 23;
-
-        if (diff_days == 0) {
-          if (today.getMonth() == 1)
-            diff_days = 28;
-          else if (today.getMonth() % 2 == 0)
-            diff_days = 30;
-          else
-            diff_days = 31;
-        } else {
-          diff_days--;
-        }
-
-        if (diff_months == 0) {
-          diff_months = 11;
-          diff_years--;
-        } else {
-          diff_months--;
-        }
-      } else {
-        diff_hours--;
-      }
-      
-      diff_minutes += 60;
-    }
-
-    // if (diff_seconds < 0) {
-    //   diff_minutes--;
-    //   diff_seconds += 60;
-    // }
+    diff_years = Math.floor(diff_months / 12);
+    diff_months = diff_months % 12;
+    diff_days = Math.floor(diff_days % 30.4375);
+    diff_hours = diff_hours % 24;
+    diff_minutes = diff_minutes % 60;
+    diff_seconds = Math.floor(diff_seconds % 60);
 
     diff_years > 1 ? time_str += diff_years + " years" : time_str += diff_years + " year";
     time_str += " ";
@@ -102,14 +38,17 @@
     diff_days > 1 ? time_str += diff_days + " days" : time_str += diff_days + " day";
     time_str += " ";
     diff_hours > 1 ? time_str += diff_hours + " hours" : time_str += diff_hours + " hour";
-    time_str += " and ";
+    time_str += " ";
     diff_minutes > 1 ? time_str += diff_minutes + " minutes" : time_str += diff_minutes + " minute";
-    // time_str += " and ";
-    // diff_seconds > 1 ? time_str += diff_seconds + " seconds" : time_str += diff_seconds + " second";
+    time_str += " and ";
+    diff_seconds > 1 ? time_str += diff_seconds + " seconds" : time_str += diff_seconds + " second";
 
     content.innerHTML = time_str;
   }
   
-  time_calc_function();
-  setInterval(time_calc_function, 5000);
+  timeDifferenceCalc(completed);
+  setInterval(() => {
+    var completed = new Date('Friday, April 1, 2016 23:32:00');
+    timeDifferenceCalc(completed);
+  }, 1000);
 </script>
