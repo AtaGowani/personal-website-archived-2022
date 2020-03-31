@@ -23,6 +23,12 @@
         {% include interests.html %}
       </div>
     {% endif %}
+
+    {% if site.books %}
+      <div class="my-6">
+        {% include books.html %}
+      </div>
+    {% endif %}
   </div>
 {% else %}
   <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
@@ -49,6 +55,10 @@
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
         {% endunless %}
+
+        {% if site.books %}
+          {% include books.html %}
+        {% endif %}
       </div>
     </div>
   </div>

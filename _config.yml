@@ -46,3 +46,10 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
+
+books:
+  The Five People You Meet in Heaven:
+    author: Mitoh Albom
+    description: A really good book
+    rating: 8
+    cover_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200541l/3431.jpg
