@@ -68,3 +68,8 @@ books:
     description: A really good book
     rating: 8
     cover_url: https://images-na.ssl-images-amazon.com/images/I/51bEp9MOvwL._SX319_BO1,204,203,200_.jpg
+  The Drunkard's Walk:
+    author: Leonard Mlodinow
+    description: A really good book
+    rating: 9
+    cover_url: https://images-na.ssl-images-amazon.com/images/I/91Qt1C%2B4GuL.jpg
