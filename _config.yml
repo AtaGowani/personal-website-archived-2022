@@ -51,5 +51,20 @@ books:
   The Five People You Meet in Heaven:
     author: Mitoh Albom
     description: A really good book
-    rating: 8
+    rating: 7
     cover_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200541l/3431.jpg
+  The Alchemy of Happiness:
+    author: Al Ghazzali
+    description: A really good book
+    rating: 6
+    cover_url: https://kbimages1-a.akamaihd.net/39722e21-7b23-431f-83da-7d64932b18ed/1200/1200/False/the-alchemy-of-happiness-20.jpg
+  I Can't Make this Up:
+    author: Kevin Hart
+    description: A really good book
+    rating: 9
+    cover_url: https://m.media-amazon.com/images/I/516mPcdVFBL.jpg
+  Saint Anything:
+    author: Sarah Dessen
+    description: A really good book
+    rating: 8
+    cover_url: https://images-na.ssl-images-amazon.com/images/I/51bEp9MOvwL._SX319_BO1,204,203,200_.jpg
