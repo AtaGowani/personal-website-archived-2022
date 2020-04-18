@@ -61,7 +61,7 @@ books:
   I Can't Make this Up:
     author: Kevin Hart
     description: A really good book
-    rating: 9
+    rating: 8
     cover_url: https://m.media-amazon.com/images/I/516mPcdVFBL.jpg
   Saint Anything:
     author: Sarah Dessen
@@ -71,5 +71,15 @@ books:
   The Drunkard's Walk:
     author: Leonard Mlodinow
     description: A really good book
-    rating: 9
+    rating: 7
     cover_url: https://images-na.ssl-images-amazon.com/images/I/91Qt1C%2B4GuL.jpg
+  The Glass Castle:
+    author: Jeannette Walls
+    description: A really good book
+    rating: 9
+    cover_url: https://m.media-amazon.com/images/I/41SV07xgbNL.SX316.SY316.jpg
+  A Long Way Gone:
+    author: Ishmael Beah
+    description: A really good book
+    rating: 9
+    cover_url: https://images-na.ssl-images-amazon.com/images/I/81tws0iLBFL.jpg
