@@ -48,6 +48,11 @@ social_media:
   # youtube: your_username
 
 books:
+  Tuesdays With Morrie:
+    author: Mitoh Albom
+    description: A really good book
+    rating: 9
+    cover_url: https://image.ebooks.com/previews/000/000755/000755006/000755006.jpg
   The Five People You Meet in Heaven:
     author: Mitoh Albom
     description: A really good book
