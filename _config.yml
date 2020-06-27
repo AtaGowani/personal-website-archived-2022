@@ -48,6 +48,11 @@ social_media:
   # youtube: your_username
 
 books:
+  The Forty Rules of Love:
+      author: Elif Shafak
+      description: A really good book
+      rating: 10
+      cover_url: https://miro.medium.com/max/700/1*XqHIC1QN8VCEcBaHdtWvxg.jpeg
   Tuesdays With Morrie:
     author: Mitoh Albom
     description: A really good book
