@@ -48,12 +48,17 @@ social_media:
   # youtube: your_username
 
 books:
+  The Next Person You Meet In Heaven:
+    author: Mitch Albom
+    description: A really good book
+    rating: 7
+    cover_url: https://prodimage.images-bn.com/pimages/9780062294456_p0_v2_s1200x630.jpg
   The Forty Rules of Love:
       author: Elif Shafak
       description: A really good book
       rating: 10
       cover_url: https://miro.medium.com/max/700/1*XqHIC1QN8VCEcBaHdtWvxg.jpeg
-  Tuesdays With Morrie:
+  Tuesdays with Morrie:
     author: Mitoh Albom
     description: A really good book
     rating: 9
