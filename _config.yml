@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    - AtaGowani
 
 social_media:
   # behance: your_username
@@ -62,7 +62,7 @@ books:
     author: Mitoh Albom
     description: A really good book
     rating: 9
-    cover_url: https://image.ebooks.com/previews/000/000755/000755006/000755006.jpg
+    cover_url: /assets/imgs/twm.jpg
   The Five People You Meet in Heaven:
     author: Mitoh Albom
     description: A really good book
