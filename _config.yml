@@ -48,6 +48,11 @@ social_media:
   # youtube: your_username
 
 books:
+  On The Shortness Of Life:
+    author: Lucius Seneca
+    description: This book is a guide into how to live a life of joy without falling prey to the distractions of human societies and the mind's trappings.
+    rating: 8
+    cover_url: https://images-na.ssl-images-amazon.com/images/I/41Vq9IIEaRL._SX305_BO1,204,203,200_.jpg
   The Next Person You Meet In Heaven:
     author: Mitch Albom
     description: A really good book
