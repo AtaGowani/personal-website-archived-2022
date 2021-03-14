@@ -2,27 +2,26 @@
 title: "My First Hackathon! (TAMU Hack)"
 ---
 
+<!-- The Team -->
+<p style="text-align:left">
+<img src="/assets/imgs/hack_tamu.jpg" width="500rem">
+</p>
+
 # Texas A&M Hackathon
 
-I hopped on the bus excited, nervous, and lost. I wasn’t sure want to expect although I had done my fair share of research about what hackathons were like and read a couple articles on what to expect from a hackathon and how to make the best of it. Most of them started off by an advise that went a little something like this: “Don’t be nervous. Just try new things.”
+There were so many feelings rushing through me as I hopped on the bus to Texas A&M. I wasn’t sure what to expect even though I had done my fair share of research on what hackathons were like and how to make the best of them. Most of the articles had started off with a piece of advice: “Don’t be nervous. Just try new things.”
 
-And this is exactly where I was stuck. Being a noob programmer, it was no big deal finding new things to try but getting myself to stop being nervous, that was the issue.
+And this is exactly where I was stuck. As a noob programmer, it was not a big deal to find new things to try, but getting myself to stop being so nervous was the main issue.
 
+This escalated even more when I saw a guy walk onto the bus with a box that seemed to hold a medium-sized piece of tech equipment. It was clear to see that this would be used for a hack. A few minutes later, a group of guys sitting next to me pulled out their laptops. After seeing that their screens were filled with color-coded code, I felt the need to take a deep breath and close my eyes. I didn’t open them until I was sure that there was nothing else around me that would daunt me.
 
-This issue escalated even more when I saw a guy walk onto the bus with a box that seemed to hold a medium sized tech equipment. It was clear to tell that it was going to be used for a hack. A few minutes later a group of guys sitting next to me pulled out their laptops and after a quick glance at their laptop screens filled with color-coded code I felt the need to take a deep breath and close my eyes. (I didn’t open them until I was sure that there was nothing else around me that would daunt me.)
-
-I was not prepared for this at all. All I had was another noob programmer, Jenya, that I had contacted on Facebook before the event and hope that we would be able to successfully think of an interesting hack idea by the time we got to Texas A&M.
+I felt so unprepared after seeing all this.  All I had on my side was another beginner programmer, Jenya, who I had contacted on Facebook before the event. We were hoping to successfully think of an interesting hack idea by the time we got to Texas A&M.
 
 ## Sunshine and Rainbows
 
-<!-- The Team -->
-<p style="text-align:center">
-<img src="/assets/imgs/hack_tamu.jpg" width="300rem">
-</p>
+Once we arrived at the university and had completed registration, Jenya and I assembled a team. Although we ended up with all first-time hackathon participants on our team, we were able to make a final product that merely reflected our idea on a static webpage. In the end, it was definitely worth the learning experience and of course, the free goodies as well.
 
-And now time for the positive and optimistic ending that you all saw coming. Once we were at Texas A & M University and after the registration was done, Jenya and I were able to assemble a team. Although we ended up with a noob team and it took a lot of help just for us to make a final product that merely reflected our idea on a static webpage, in the end it was all worth the learning experience and the free goodies.
+**p.s. our team made it to the semi-finals for cup-stacking.**
 
-**P.S. Our team made it to the semi-finals for cup-staking.**
-
-### My favorite part
-Going to sleep at 4:00 A.M. on a row of chairs and waking up at 6:00 A.M. to find my phone filled with messages from my team asking if I was still alive.
+### My Favorite Part
+Hackathons can be wild. My favorite part was definitely going to sleep at 4:00 a.m. on a row of chairs and waking up at 6:00 a.m. to find my phone filled with messages from my team asking if I was still alive.
