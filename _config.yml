@@ -41,65 +41,88 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: AtaGowani
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 books:
+  Harry Potter and The Chamber of Secrets:
+      author: J.K Rowling
+      description: An amazing fantasy book!
+      rating: 8
+      cover_url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.parenting-blog.net%2Fwp-content%2Fuploads%2FHarry-Potter-and-the-Chamber-of-Secrets.jpg
+      purchase_url: #
+  Harry Potter and The Sorcerer's Stone:
+      author: J.K. Rowling
+      description: An amazing fantasy book!
+      rating: 8
+      cover_url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F989163%2Fimages%2Fo-NEW-HARRY-POTTER-COVER-facebook.jpg
+      purchase_url: # 
   On The Shortness Of Life:
     author: Lucius Seneca
     description: This book is a guide into how to live a life of joy without falling prey to the distractions of human societies and the mind's trappings.
     rating: 8
     cover_url: https://images-na.ssl-images-amazon.com/images/I/41Vq9IIEaRL._SX305_BO1,204,203,200_.jpg
+    purchase_url: #
   The Next Person You Meet In Heaven:
     author: Mitch Albom
     description: A really good book
     rating: 7
     cover_url: https://prodimage.images-bn.com/pimages/9780062294456_p0_v2_s1200x630.jpg
+    purchase_url: #
   The Forty Rules of Love:
       author: Elif Shafak
       description: A really good book
       rating: 10
       cover_url: https://miro.medium.com/max/700/1*XqHIC1QN8VCEcBaHdtWvxg.jpeg
+      purchase_url: # 
   Tuesdays with Morrie:
     author: Mitoh Albom
     description: A really good book
     rating: 9
     cover_url: /assets/imgs/twm.jpg
+    purchase_url: #
   The Five People You Meet in Heaven:
     author: Mitoh Albom
     description: A really good book
     rating: 7
     cover_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200541l/3431.jpg
+    purchase_url: #
   The Alchemy of Happiness:
     author: Al Ghazzali
     description: A really good book
     rating: 6
     cover_url: https://kbimages1-a.akamaihd.net/39722e21-7b23-431f-83da-7d64932b18ed/1200/1200/False/the-alchemy-of-happiness-20.jpg
+    purchase_url: #
   I Can't Make this Up:
     author: Kevin Hart
     description: A really good book
     rating: 8
     cover_url: https://m.media-amazon.com/images/I/516mPcdVFBL.jpg
+    purchase_url: #
   Saint Anything:
     author: Sarah Dessen
     description: A really good book
     rating: 8
     cover_url: https://images-na.ssl-images-amazon.com/images/I/51bEp9MOvwL._SX319_BO1,204,203,200_.jpg
+    purchase_url: #
   The Drunkard's Walk:
     author: Leonard Mlodinow
     description: A really good book
     rating: 7
     cover_url: https://images-na.ssl-images-amazon.com/images/I/91Qt1C%2B4GuL.jpg
+    purchase_url: #
   The Glass Castle:
     author: Jeannette Walls
     description: A really good book
     rating: 9
     cover_url: https://m.media-amazon.com/images/I/41SV07xgbNL.SX316.SY316.jpg
+    purchase_url: #
   A Long Way Gone:
     author: Ishmael Beah
     description: A really good book
     rating: 9
     cover_url: https://images-na.ssl-images-amazon.com/images/I/81tws0iLBFL.jpg
+    purchase_url: #
