@@ -48,6 +48,12 @@ social_media:
   # youtube: your_username
 
 books:
+  Harry Potter and The Prizoner of Azkaban:
+      author: J.K Rowling
+      description: An amazing fantasy book!
+      rating: 8
+      cover_url: https://toomanybooksnotenoughshelves.files.wordpress.com/2019/01/81lapl9fl0l.jpg
+      purchase_url: #
   Harry Potter and The Chamber of Secrets:
       author: J.K Rowling
       description: An amazing fantasy book!
