@@ -48,7 +48,7 @@ social_media:
   # youtube: your_username
 
 books:
-  Harry Potter and The Prizoner of Azkaban:
+  Harry Potter and The Prisoner of Azkaban:
       author: J.K Rowling
       description: An amazing fantasy book!
       rating: 8
@@ -58,13 +58,13 @@ books:
       author: J.K Rowling
       description: An amazing fantasy book!
       rating: 8
-      cover_url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.parenting-blog.net%2Fwp-content%2Fuploads%2FHarry-Potter-and-the-Chamber-of-Secrets.jpg
+      cover_url: http://www.parenting-blog.net/wp-content/uploads/Harry-Potter-and-the-Chamber-of-Secrets.jpg
       purchase_url: #
   Harry Potter and The Sorcerer's Stone:
       author: J.K. Rowling
       description: An amazing fantasy book!
       rating: 8
-      cover_url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F989163%2Fimages%2Fo-NEW-HARRY-POTTER-COVER-facebook.jpg
+      cover_url: http://i.huffpost.com/gen/989163/images/o-NEW-HARRY-POTTER-COVER-facebook.jpg
       purchase_url: # 
   On The Shortness Of Life:
     author: Lucius Seneca
