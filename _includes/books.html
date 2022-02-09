@@ -1,8 +1,8 @@
 <h2>My Bookshelf</h2>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-5 mt-5">
-  {% for book in site.books reversed %}
-    <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-7 text-center">
-      {% include book-card.html %}
-    </div>
+  {% for book in site.books %}
+  <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-7 text-center">
+    {% include book-card.html %}
+  </div>
   {% endfor %}
 </div>
