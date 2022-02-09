@@ -48,6 +48,12 @@ social_media:
   youtube: AtaGowani
 
 books:
+  Atomic Habits:
+    author: James Clear
+    description: Amazing book to learn about how to hack you brain to improve your habits
+    rating: 9
+    cover_url: https://images-na.ssl-images-amazon.com/images/I/81E7fYJuiTL.jpg
+    purchase_url: #
   Harry Potter and The Prisoner of Azkaban:
       author: J.K Rowling
       description: An amazing fantasy book!
