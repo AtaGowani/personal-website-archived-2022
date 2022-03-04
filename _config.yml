@@ -48,93 +48,99 @@ social_media:
   youtube: AtaGowani
 
 books:
+  The Alchemist:
+    author: Paulo Coelho
+    description: An amazing book about the journey of a young man
+    rating: 7
+    cover_url: https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg
+    purchase_url: https://amzn.to/3sHX5Rj
   Atomic Habits:
     author: James Clear
     description: Amazing book to learn about how to hack you brain to improve your habits
     rating: 9
     cover_url: https://images-na.ssl-images-amazon.com/images/I/81E7fYJuiTL.jpg
-    purchase_url: #
+    purchase_url: https://amzn.to/35p1v6O
   Harry Potter and The Prisoner of Azkaban:
       author: J.K Rowling
       description: An amazing fantasy book!
       rating: 8
       cover_url: https://toomanybooksnotenoughshelves.files.wordpress.com/2019/01/81lapl9fl0l.jpg
-      purchase_url: #
+      purchase_url: https://www.amazon.com/Harry-Potter-Prisoner-Azkaban-Rowling/dp/0439136350/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1646374155&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=9ea9d36af2428345ccaed362341c0adc&camp=1789&creative=9325
   Harry Potter and The Chamber of Secrets:
       author: J.K Rowling
       description: An amazing fantasy book!
       rating: 8
       cover_url: http://www.parenting-blog.net/wp-content/uploads/Harry-Potter-and-the-Chamber-of-Secrets.jpg
-      purchase_url: #
+      purchase_url: https://www.amazon.com/Harry-Potter-Chamber-Secrets-Rowling/dp/0439064872/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374562&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=95c30aceac1f2094bb3bdaf175eb7d0d&camp=1789&creative=9325
   Harry Potter and The Sorcerer's Stone:
       author: J.K. Rowling
       description: An amazing fantasy book!
       rating: 8
       cover_url: http://i.huffpost.com/gen/989163/images/o-NEW-HARRY-POTTER-COVER-facebook.jpg
-      purchase_url: # 
+      purchase_url: https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374611&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=263944cbc5661aadaf8d605991228fb7&camp=1789&creative=9325
   On The Shortness Of Life:
     author: Lucius Seneca
     description: This book is a guide into how to live a life of joy without falling prey to the distractions of human societies and the mind's trappings.
     rating: 8
     cover_url: https://images-na.ssl-images-amazon.com/images/I/41Vq9IIEaRL._SX305_BO1,204,203,200_.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Shortness-Life-Lucius-Annaeus-Seneca/dp/B09DMR21N3/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374648&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=14226bc217861fed8ec5b08ff11d9cdb&camp=1789&creative=9325
   The Next Person You Meet In Heaven:
     author: Mitch Albom
     description: A really good book
     rating: 7
     cover_url: https://prodimage.images-bn.com/pimages/9780062294456_p0_v2_s1200x630.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Next-Person-You-Meet-Heaven/dp/0062294458/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374683&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=6144302f2142bd3fa86d2bfabb2be205&camp=1789&creative=9325
   The Forty Rules of Love:
       author: Elif Shafak
       description: A really good book
       rating: 10
       cover_url: https://miro.medium.com/max/700/1*XqHIC1QN8VCEcBaHdtWvxg.jpeg
-      purchase_url: # 
+      purchase_url: https://www.amazon.com/Forty-Rules-Love-Novel-Rumi/dp/0143118528/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374719&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=98879bd34175aef78be5ea5e7a9f9377&camp=1789&creative=9325
   Tuesdays with Morrie:
     author: Mitoh Albom
     description: A really good book
     rating: 9
     cover_url: /assets/imgs/twm.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary-ebook/dp/B000SEGMAU/ref=sr_1_1?keywords=tuesdays+with+morrie&qid=1646374760&s=books&sprefix=tuesdays+%252Cstripbooks%252C68&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=030c20cdec0f736ea138877608233313&camp=1789&creative=9325
   The Five People You Meet in Heaven:
     author: Mitoh Albom
     description: A really good book
     rating: 7
     cover_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200541l/3431.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Five-People-You-Meet-Heaven-ebook/dp/B000PLXEU2/ref=sr_1_1?keywords=the+five+people+you+meet+in+heaven&qid=1646374816&s=books&sprefix=the+five+people+%252Cstripbooks%252C78&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=533ba44ba27cbd60d969a17b799212af&camp=1789&creative=9325
   The Alchemy of Happiness:
     author: Al Ghazzali
     description: A really good book
     rating: 6
     cover_url: https://kbimages1-a.akamaihd.net/39722e21-7b23-431f-83da-7d64932b18ed/1200/1200/False/the-alchemy-of-happiness-20.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Alchemy-Happiness-Abu-Hamid-Al-Ghazali/dp/3903352748/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646374873&sr=1-2&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=b37c975f002c322188fbf0854cd2759e&camp=1789&creative=9325
   I Can't Make this Up:
     author: Kevin Hart
     description: A really good book
     rating: 8
     cover_url: https://m.media-amazon.com/images/I/516mPcdVFBL.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Cant-Make-This-Up-Lessons-ebook/dp/B01MYWFGRM/ref=sr_1_1?keywords=i+cant+make+this+up+kevin+hart&qid=1646374922&s=books&sprefix=i+cant+ma%252Cstripbooks%252C94&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=4dd04ec3e18627da917b13ff24cc0b51&camp=1789&creative=9325
   Saint Anything:
     author: Sarah Dessen
     description: A really good book
     rating: 8
     cover_url: https://images-na.ssl-images-amazon.com/images/I/51bEp9MOvwL._SX319_BO1,204,203,200_.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Saint-Anything-Sarah-Dessen/dp/0451474708/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1646374963&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=8d98183d4a9c470e6d50412d91f91ee8&camp=1789&creative=9325
   The Drunkard's Walk:
     author: Leonard Mlodinow
     description: A really good book
     rating: 7
     cover_url: https://images-na.ssl-images-amazon.com/images/I/91Qt1C%2B4GuL.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Drunkards-Walk-Randomness-Rules-Lives-ebook-dp-B001NXK1XO/dp/B001NXK1XO/ref=mt_other?_encoding=UTF8&me=&qid=1646375040&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=a6917b54d9e9c6d6181cda33fc20fc65&camp=1789&creative=9325
   The Glass Castle:
     author: Jeannette Walls
     description: A really good book
     rating: 9
     cover_url: https://m.media-amazon.com/images/I/41SV07xgbNL.SX316.SY316.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Glass-Castle-Memoir-Jeannette-Walls/dp/074324754X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646375002&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=84d4ab753a9962ceb3a1e98a1a2ec013&camp=1789&creative=9325
   A Long Way Gone:
     author: Ishmael Beah
     description: A really good book
     rating: 9
     cover_url: https://images-na.ssl-images-amazon.com/images/I/81tws0iLBFL.jpg
-    purchase_url: #
+    purchase_url: https://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1646375088&sr=1-1&_encoding=UTF8&tag=atagowani-20&linkCode=ur2&linkId=b48c078b0a71baef7906c7a130cbce08&camp=1789&creative=9325
