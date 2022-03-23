@@ -28,7 +28,7 @@
   {% assign page_title = page.title %}
   {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% else %}
-  {% assign page_title = user.name %}
+  {% assign page_title = user.name | append: ' | ' | append: user.bio | append: ' | ' | append: user.location %}
   {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% endif %}
 
@@ -38,7 +38,7 @@
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ meta_description }}" />
-    <meta property="og:title" content="{{ user.name }}" />
+    <meta property="og:title" content="{{ user.name }} | {{ user.bio }} | {{ user.location }}" />
     <meta property="og:image" content="/assets/imgs/og_image.png" />
     <meta property="og:description" content="{{ meta_description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
